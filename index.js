@@ -2,7 +2,7 @@ let player = {
     name: "Rasheeda",
     chips: 200
 }
-// What we haven't covered is how to make lines 2(player name) input something that is not hard coded, so that the user can add that themselves.
+// What we haven't covered is how to make line 2(player name) input something that is not hard coded, so that the user can add that themselves.
 // Or would that be done in the HTML rather?
 
 let cards = []
